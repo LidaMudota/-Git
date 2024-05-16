@@ -1,0 +1,15 @@
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.log
+*.tmp
+*.bak
+.vscode
+.idea
+node_modules
+bin
+obj
+.env
+.DS_Store
