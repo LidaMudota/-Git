@@ -7,7 +7,7 @@
 ---
 
 1. [Введение](./introduction.md)
-2. [Доп. возможности Git](./advanced.md )
+2. [Доп. возможности Git](./advance.md )
 3. [Несколько основных команд Git](./command.md)
 4. [Установка Git](./installation.md)
 5. [Основы работы с репозиториями](./repository.md)
