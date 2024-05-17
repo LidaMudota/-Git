@@ -1,5 +1,7 @@
 # Некоторые основные команды Git 
 
+![git-logo](./git-commands.jpg)
+
 ```
     git log
     git branch
